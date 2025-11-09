@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SAWeatherPlus</string>
+
+    <!-- Common strings -->
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="search_weather">Search Weather by Place</string>
+    <string name="enter_city_name">Enter city name…</string>
+    <string name="search">Search</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="refresh_weather">Refresh Weather</string>
+    <string name="logout">Logout</string>
+    <string name="language">Language</string>
+    <string name="recent_places">Recent Places</string>
+    <string name="no_recent_searches">No recent searches</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Google Sign-In -->
+    <string name="default_web_client_id">718780739185-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com</string>
+</resources>

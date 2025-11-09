@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "718780739185",
+    "firebase_url": "https://database-demo-3850b-default-rtdb.firebaseio.com",
+    "project_id": "database-demo-3850b",
+    "storage_bucket": "database-demo-3850b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718780739185:android:930455475fee0404a675d0",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClaSYawnUUbp3fxFuJ7-18Mf4P6ZcLPo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718780739185:android:e625bda80a44c429a675d0",
+        "android_client_info": {
+          "package_name": "com.example.saweatherplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClaSYawnUUbp3fxFuJ7-18Mf4P6ZcLPo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
